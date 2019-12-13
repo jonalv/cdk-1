@@ -43,7 +43,7 @@ import javax.vecmath.Point3d;
  * Evaluates length over breadth descriptors.
  * 
  * The current implementation reproduces the results obtained from the LOVERB descriptor
- * routine in ADAPT. As a result ti does not perform any orientation and only considers the
+ * routine in ADAPT. As a result it does not perform any orientation and only considers the
  * X &amp; Y extents for a series of rotations about the Z axis (in 10 degree increments).
  * 
  * The class gives two descriptors
